@@ -5,9 +5,7 @@ import luxeLogo from '../../assets/images/logos/luxe.png'
 const navLinks = [
   { key: 'nav.services', href: '#servicios' },
   { key: 'nav.whyUs',    href: '#por-que' },
-  { key: 'nav.gallery',  href: '#galeria' },
   { key: 'nav.location', href: '#ubicacion' },
-  { key: 'nav.contact',  href: '#contacto' },
 ]
 
 export default function Footer() {

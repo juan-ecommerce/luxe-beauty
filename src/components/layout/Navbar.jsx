@@ -8,9 +8,7 @@ import luxeLogo from '../../assets/images/logos/luxe.png'
 const links = [
   { key: 'nav.services', href: '#servicios' },
   { key: 'nav.whyUs',    href: '#por-que' },
-  { key: 'nav.gallery',  href: '#galeria' },
   { key: 'nav.location', href: '#ubicacion' },
-  { key: 'nav.contact',  href: '#contacto' },
 ]
 
 export default function Navbar() {
@@ -50,11 +48,6 @@ export default function Navbar() {
             className="hidden sm:block font-body text-xs tracking-[0.25em] text-white/45 hover:text-gold-light transition-colors duration-200 uppercase">
             {i18n.language === 'es' ? 'EN' : 'ES'}
           </button>
-          <a href="#contacto"
-            className="hidden sm:inline-flex btn-gold items-center px-5 py-2.5 font-body text-xs tracking-[0.15em] uppercase
-              bg-gold-light text-obsidian hover:bg-gold transition-colors duration-200">
-            {t('nav.reserve')}
-          </a>
           <button onClick={() => setOpen(!open)} className="lg:hidden text-white p-1" aria-label="Toggle menu">
             {open ? <FiX size={22} /> : <FiMenu size={22} />}
           </button>
@@ -78,15 +71,11 @@ export default function Navbar() {
                   {t(key)}
                 </a>
               ))}
-              <div className="flex items-center justify-between pt-4">
+              <div className="flex items-center pt-4">
                 <button onClick={toggleLang}
                   className="font-body text-xs tracking-[0.2em] text-white/45 hover:text-gold-light uppercase">
                   {i18n.language === 'es' ? 'EN' : 'ES'}
                 </button>
-                <a href="#contacto" onClick={() => setOpen(false)}
-                  className="btn-gold inline-flex items-center px-6 py-2.5 font-body text-xs tracking-[0.15em] uppercase bg-gold-light text-obsidian">
-                  {t('nav.reserve')}
-                </a>
               </div>
             </div>
           </motion.div>

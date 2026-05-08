@@ -10,8 +10,10 @@
   "hero": {
     "title": "Your Professional Space",
     "subtitle": "in Alicante",
-    "desc": "The most exclusive beauty co-working space on the Costa Blanca. Work independently with premium equipment and total flexibility.",
-    "cta": "Reserve Your Space",
+    "desc": "Luxe Beauty Coworking is a shared space where multiple beauty professionals work independently under one roof. Bring your own clients, set your own schedule and thrive alongside other industry experts in a premium environment.",
+    "tag1": "Multiple professionals",
+    "tag2": "Your own business",
+    "tag3": "A luxury space",
     "scroll": "Discover more"
   },
   "services": {
@@ -25,7 +27,7 @@
   },
   "why": {
     "title": "Why Choose Us?",
-    "subtitle": "Everything you need to grow as a beauty professional in Alicante",
+    "subtitle": "A space where each professional runs their own business with full independence",
     "flexible":  { "title": "Flexible Schedule",     "desc": "Work whenever you want. Available 7 days a week, morning and evening, with no long-term commitments." },
     "premium":   { "title": "Premium Equipment",     "desc": "Everything you need to work at the highest level: chairs, tools and consumables of the finest quality." },
     "location":  { "title": "Prime Location",        "desc": "In the heart of Alicante, Avenida Denia 5. Easy access, ample parking and high foot traffic." },
@@ -50,8 +52,8 @@
   },
   "cta": {
     "title": "Ready to Get Started?",
-    "subtitle": "Join the most exclusive beauty professional community in Alicante. Your space, your business, your rules.",
-    "button": "Request Information"
+    "subtitle": "Join the most exclusive beauty professional community in Alicante. Each professional works independently — your clients, your schedule, your business.",
+    "phone": "Call us"
   },
   "location": {
     "title": "Find Us",

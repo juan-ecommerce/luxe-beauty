@@ -10,8 +10,10 @@
   "hero": {
     "title": "Tu Espacio Profesional",
     "subtitle": "en Alicante",
-    "desc": "El coworking de belleza más exclusivo de la Costa Blanca. Trabaja con independencia, equipamiento premium y flexibilidad total.",
-    "cta": "Reserva Tu Espacio",
+    "desc": "Luxe Beauty Coworking es un espacio compartido donde varias profesionales de la belleza trabajan de forma independiente bajo un mismo techo. Trae a tus propias clientas, trabaja con tu propio horario y disfruta de un entorno premium junto a otras expertas del sector.",
+    "tag1": "Múltiples profesionales",
+    "tag2": "Cada una, su negocio",
+    "tag3": "Un espacio de lujo",
     "scroll": "Descubre más"
   },
   "services": {
@@ -25,7 +27,7 @@
   },
   "why": {
     "title": "¿Por Qué Elegirnos?",
-    "subtitle": "Todo lo que necesitas para crecer como profesional de la belleza en Alicante",
+    "subtitle": "Un espacio donde cada profesional gestiona su propio negocio con total independencia",
     "flexible":  { "title": "Horario Flexible",         "desc": "Trabaja cuando quieras. Disponibilidad 7 días a la semana, en horario de mañana y tarde, sin compromisos." },
     "premium":   { "title": "Equipamiento Premium",     "desc": "Todo lo que necesitas para trabajar al más alto nivel: sillones, herramientas y consumibles de primera calidad." },
     "location":  { "title": "Ubicación Privilegiada",   "desc": "En el corazón de Alicante, Avenida Denia 5. Fácil acceso, amplia zona de aparcamiento y alta afluencia." },
@@ -50,8 +52,8 @@
   },
   "cta": {
     "title": "¿Lista para Empezar?",
-    "subtitle": "Únete a la comunidad de profesionales de belleza más exclusiva de Alicante. Tu espacio, tu negocio, tus normas.",
-    "button": "Solicita Información"
+    "subtitle": "Únete a la comunidad de profesionales de belleza más exclusiva de Alicante. Cada profesional trabaja de forma independiente — tu clientela, tu horario, tu negocio.",
+    "phone": "Llámanos"
   },
   "location": {
     "title": "Encuéntranos",
