@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "services": "Servicios",
+    "whyUs": "Por Qué Nosotras",
+    "gallery": "Galería",
+    "location": "Ubicación",
+    "contact": "Contacto",
+    "reserve": "Reservar"
+  },
+  "hero": {
+    "title": "Tu Espacio Profesional",
+    "subtitle": "en Alicante",
+    "desc": "El coworking de belleza más exclusivo de la Costa Blanca. Trabaja con independencia, equipamiento premium y flexibilidad total.",
+    "cta": "Reserva Tu Espacio",
+    "scroll": "Descubre más"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Espacios totalmente equipados para cada especialidad",
+    "hair":      { "title": "Cabello",   "desc": "Sillones profesionales, lavacabezas y herramientas de primera calidad para todas las técnicas" },
+    "nails":     { "title": "Uñas",      "desc": "Mesas de manicura ergonómicas con iluminación LED y extracción de polvo integrada" },
+    "brows":     { "title": "Cejas",     "desc": "Zona especializada para diseño, laminación y arquitectura de cejas con luz daylight" },
+    "pedicure":  { "title": "Pedicura",  "desc": "Sillones de pedicura con spa de pies en un ambiente de lujo y máxima comodidad" },
+    "manicure":  { "title": "Manicura",  "desc": "Espacios perfectamente equipados para ofrecer a tu clientela un servicio de excelencia" }
+  },
+  "why": {
+    "title": "¿Por Qué Elegirnos?",
+    "subtitle": "Todo lo que necesitas para crecer como profesional de la belleza en Alicante",
+    "flexible":  { "title": "Horario Flexible",         "desc": "Trabaja cuando quieras. Disponibilidad 7 días a la semana, en horario de mañana y tarde, sin compromisos." },
+    "premium":   { "title": "Equipamiento Premium",     "desc": "Todo lo que necesitas para trabajar al más alto nivel: sillones, herramientas y consumibles de primera calidad." },
+    "location":  { "title": "Ubicación Privilegiada",   "desc": "En el corazón de Alicante, Avenida Denia 5. Fácil acceso, amplia zona de aparcamiento y alta afluencia." },
+    "network":   { "title": "Red de Profesionales",     "desc": "Comparte espacio con otras expertas del sector, crea sinergias y amplía tu red de contactos." },
+    "costs":     { "title": "Sin Costes Fijos",         "desc": "Sin alquileres ni contratos largos. Paga solo lo que utilices y gestiona tu negocio con total libertad." },
+    "lounge":    { "title": "Sala de Espera Exclusiva", "desc": "Tu clientela merece lo mejor. Un espacio de espera elegante y cuidado que refleja la calidad de tu trabajo." }
+  },
+  "gallery": {
+    "title": "Nuestro Espacio",
+    "subtitle": "Diseñado para la profesional que exige lo mejor",
+    "items": {
+      "studio":    "Estudio Profesional",
+      "manicure":  "Zona de Manicura",
+      "brows":     "Zona de Cejas",
+      "lounge":    "Sala de Espera",
+      "pedicure":  "Zona de Pedicura",
+      "hair":      "Zona de Cabello"
+    }
+  },
+  "brands": {
+    "title": "Trabajamos con las mejores marcas"
+  },
+  "cta": {
+    "title": "¿Lista para Empezar?",
+    "subtitle": "Únete a la comunidad de profesionales de belleza más exclusiva de Alicante. Tu espacio, tu negocio, tus normas.",
+    "button": "Solicita Información"
+  },
+  "location": {
+    "title": "Encuéntranos",
+    "subtitle": "En el corazón de Alicante",
+    "address": "Dirección",
+    "phone": "Teléfono",
+    "hours": "Horario",
+    "weekdays": "Lunes — Sábado",
+    "weekdayHours": "9:00 — 20:00",
+    "sunday": "Domingo",
+    "sundayHours": "Cerrado",
+    "getDirections": "Abrir en Google Maps"
+  },
+  "contact": {
+    "title": "Contacta con Nosotras",
+    "subtitle": "Cuéntanos sobre tu especialidad y nos pondremos en contacto contigo a la mayor brevedad.",
+    "name": "Nombre completo",
+    "email": "Correo electrónico",
+    "phone": "Teléfono",
+    "specialty": "Tu especialidad",
+    "specialtyOptions": {
+      "placeholder": "Selecciona tu especialidad",
+      "hair": "Cabello",
+      "nails": "Uñas",
+      "brows": "Cejas",
+      "pedicure": "Pedicura",
+      "manicure": "Manicura",
+      "multiple": "Varias especialidades"
+    },
+    "message": "Mensaje",
+    "messagePlaceholder": "Cuéntanos sobre ti y lo que estás buscando...",
+    "submit": "Enviar Consulta",
+    "sending": "Enviando...",
+    "successTitle": "¡Mensaje enviado!",
+    "successDesc": "Gracias por contactarnos. Nos pondremos en contacto contigo muy pronto.",
+    "errorMsg": "Algo salió mal. Por favor, inténtalo de nuevo.",
+    "required": "Este campo es obligatorio",
+    "invalidEmail": "Por favor, introduce un email válido"
+  },
+  "footer": {
+    "tagline": "El coworking de belleza más exclusivo de Alicante",
+    "links": "Enlaces",
+    "follow": "Contacto",
+    "copyright": "© 2025 Luxe Beauty Coworking. Todos los derechos reservados."
+  }
+}

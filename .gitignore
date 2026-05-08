@@ -1,0 +1,17 @@
+# Original unoptimized assets (optimized copies are in src/assets/)
+assets/
+
+logs
+*.log
+npm-debug.log*
+node_modules/
+dist/
+dist-ssr/
+*.local
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.DS_Store
+Thumbs.db

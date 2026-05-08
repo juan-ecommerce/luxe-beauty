@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "services": "Services",
+    "whyUs": "Why Us",
+    "gallery": "Gallery",
+    "location": "Location",
+    "contact": "Contact",
+    "reserve": "Reserve"
+  },
+  "hero": {
+    "title": "Your Professional Space",
+    "subtitle": "in Alicante",
+    "desc": "The most exclusive beauty co-working space on the Costa Blanca. Work independently with premium equipment and total flexibility.",
+    "cta": "Reserve Your Space",
+    "scroll": "Discover more"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Fully equipped spaces for every beauty specialty",
+    "hair":      { "title": "Hair",      "desc": "Professional salon chairs, wash basins and top-quality tools for all techniques" },
+    "nails":     { "title": "Nails",     "desc": "Ergonomic nail tables with LED lighting and integrated dust extraction" },
+    "brows":     { "title": "Brows",     "desc": "Specialised area for brow design, lamination and architecture with daylight lighting" },
+    "pedicure":  { "title": "Pedicure",  "desc": "Pedicure chairs with foot spa in a luxurious and comfortable environment" },
+    "manicure":  { "title": "Manicure",  "desc": "Perfectly equipped spaces to offer your clients an outstanding level of service" }
+  },
+  "why": {
+    "title": "Why Choose Us?",
+    "subtitle": "Everything you need to grow as a beauty professional in Alicante",
+    "flexible":  { "title": "Flexible Schedule",     "desc": "Work whenever you want. Available 7 days a week, morning and evening, with no long-term commitments." },
+    "premium":   { "title": "Premium Equipment",     "desc": "Everything you need to work at the highest level: chairs, tools and consumables of the finest quality." },
+    "location":  { "title": "Prime Location",        "desc": "In the heart of Alicante, Avenida Denia 5. Easy access, ample parking and high foot traffic." },
+    "network":   { "title": "Professional Network",  "desc": "Share space with other industry experts, create synergies and expand your professional network." },
+    "costs":     { "title": "No Fixed Costs",        "desc": "No leases or long contracts. Pay only for what you use and run your business with total freedom." },
+    "lounge":    { "title": "Exclusive Waiting Area","desc": "Your clients deserve the best. An elegant waiting area that reflects the quality of your work." }
+  },
+  "gallery": {
+    "title": "Our Space",
+    "subtitle": "Designed for the professional who demands the best",
+    "items": {
+      "studio":    "Professional Studio",
+      "manicure":  "Manicure Zone",
+      "brows":     "Brow Zone",
+      "lounge":    "Waiting Lounge",
+      "pedicure":  "Pedicure Zone",
+      "hair":      "Hair Zone"
+    }
+  },
+  "brands": {
+    "title": "We work with the best brands"
+  },
+  "cta": {
+    "title": "Ready to Get Started?",
+    "subtitle": "Join the most exclusive beauty professional community in Alicante. Your space, your business, your rules.",
+    "button": "Request Information"
+  },
+  "location": {
+    "title": "Find Us",
+    "subtitle": "In the heart of Alicante",
+    "address": "Address",
+    "phone": "Phone",
+    "hours": "Opening Hours",
+    "weekdays": "Monday — Saturday",
+    "weekdayHours": "9:00 — 20:00",
+    "sunday": "Sunday",
+    "sundayHours": "Closed",
+    "getDirections": "Open in Google Maps"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Tell us about your specialty and we will get back to you as soon as possible.",
+    "name": "Full name",
+    "email": "Email address",
+    "phone": "Phone number",
+    "specialty": "Your specialty",
+    "specialtyOptions": {
+      "placeholder": "Select your specialty",
+      "hair": "Hair",
+      "nails": "Nails",
+      "brows": "Brows",
+      "pedicure": "Pedicure",
+      "manicure": "Manicure",
+      "multiple": "Multiple specialties"
+    },
+    "message": "Message",
+    "messagePlaceholder": "Tell us about yourself and what you are looking for...",
+    "submit": "Send Enquiry",
+    "sending": "Sending...",
+    "successTitle": "Message sent!",
+    "successDesc": "Thank you for contacting us. We will get back to you very soon.",
+    "errorMsg": "Something went wrong. Please try again.",
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email address"
+  },
+  "footer": {
+    "tagline": "The most exclusive beauty co-working space in Alicante",
+    "links": "Links",
+    "follow": "Contact",
+    "copyright": "© 2025 Luxe Beauty Coworking. All rights reserved."
+  }
+}
